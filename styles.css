@@ -1,0 +1,54 @@
+html, body {
+    min-height: 100vh;
+    height: 100%;
+}
+body {
+    padding: 0; 
+    margin: 0; 
+    font-family: Segoe UI; 
+    color: white;
+    background-color: #5B6971;
+    overflow: hidden;
+}
+#logo-covea {
+    max-width: 10em; 
+    height: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+} 
+h1 {
+    text-align: center;
+    padding-bottom: 0.5em;
+}
+#agents {
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-align: center;
+    color: black;
+    background-color: #CBC4BC;
+    text-transform: uppercase;
+    margin: 0;
+}
+#workers {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    text-align:center;
+    margin:auto;
+    display:flex;
+    max-width: 35%; 
+    height: auto;
+}
+#data {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    font-family: Segoe UI; 
+    text-align: center;
+    color: #CBC4BC;
+    background-color: black;
+    margin-bottom: 2em;
+}
